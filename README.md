@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KrisTikhon
+- 👋 Hi, I’m @HacKris
 - 👀 I’m interested in SW
 - 🌱 I’m currently learning WEB
 - 💞️ I’m looking to collaborate on APPs
